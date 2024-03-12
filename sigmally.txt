@@ -10,12 +10,12 @@
             "givenName": "Nicholas",
             "imageURL": "https://lh3.googleusercontent.com/a/ACg8ocJYBy6IsWxGOTqtxMDMlmkopEx9McriZ0iKwrMJ4Dk6cA8=s96-c",
             "email": "keplingernw56@students.wcde.org",
-            "gold": 9999999999999,
-            "level": 9999999999999,
-            "exp": 9999999999999,
-            "seasonExp": 117199,
+            "gold": 9999999999,
+            "level": 9999999999,
+            "exp": 9999999999,
+            "seasonExp": 9999999999,
             "progress": 26.89,
-            "nextLevel": 137951,
+            "nextLevel": 1,
             "skins": [
                 "5ff799de9d6ee153fbb39a6f",
                 "601f14bcc7e5ba47b6d54da3",
@@ -24,16 +24,16 @@
             "lastSkinUsed": [
                 "601f14bcc7e5ba47b6d54da3"
             ],
-            "token": "e2e9ba7800b531074ac4ee75ccfcf39a0718f3eac7436bd6ff9d68b58350b1b0925345e01d0ffa3e6daf1df28ac75029d81c15720e4732e1ed1f0c73110da945",
+            "token": "c524c702f914445705da32418cd2a16cc3d20ec9b8530e6baba3d050b463690d371cf7cd874a61b127cc1b1fedea9e73a3e167e480e35e1f6240f610066a5e28",
             "createTime": "2024-03-04T17:08:43.598Z",
-            "updateTime": "2024-03-12T00:33:09.452Z",
-            "subscription": 1,
+            "updateTime": "2024-03-12T00:43:19.818Z",
+            "subscription": 0,
             "hourlyTime": 1709572124341,
             "boost": 0,
             "__v": 0,
             "sigma": {
                 "65e447045c6335f4f601caf3": {
-                    "level": 9999999999999,
+                    "level": 9999999999,
                     "rewards": {},
                     "_id": "65e60042e0b11f56afe2da09"
                 }
