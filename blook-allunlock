@@ -1,3 +1,7 @@
+// rewrite https://[gamemode].blooket.com/api/users/unlocks to https://raw.githubusercontent.com/extremelydumb/direct-text/main/blook-allunlock
+// gamemodes: cryptohack, goldquest, piratesvoyage, fishingfrenzy, towerdefense, towerdefense2, monsterbrawl, deceptivedinos, battleroyale, cafe, factory, racing, blookrush, classic
+
+
 {
     "unlocks": [
 "Old Boot",
