@@ -1,0 +1,139 @@
+{
+    "message": "Success.",
+    "data": {
+        "subscription": {
+            "title": "Pro",
+            "period": null,
+            "created_at": "2022-06-24T03:09:14.000000Z",
+            "devices": []
+        },
+        "perpetual": null,
+        "old_registered_products": {
+            "programs": [
+                {
+                    "name": "HitFilm Movie Essentials Pack",
+                    "registered_at": "2021-05-10 15:35:01",
+                    "install_url": "https:\/\/legacy.fxhome.com\/software-install\/hitfilm-movie-essentials-pack",
+                    "update_extensions": [],
+                    "components": []
+                },
+                {
+                    "name": "Ignite: Enhance Ultra",
+                    "registered_at": "2021-05-10 03:34:00",
+                    "install_url": "https:\/\/legacy.fxhome.com\/software-install\/ignite-enhance-ultra-pack",
+                    "update_extensions": [],
+                    "components": []
+                },
+                {
+                    "name": "HitFilm Express",
+                    "registered_at": "2019-01-09 22:13:44",
+                    "install_url": "https:\/\/legacy.fxhome.com\/software-install\/hitfilm-express",
+                    "update_extensions": [],
+                    "components": [
+                        {
+                            "name": "Style: Dark Theme",
+                            "registered_at": "2020-10-20 00:03:39"
+                        },
+                        {
+                            "name": "Edit: Starter",
+                            "registered_at": "2020-10-20 00:03:39"
+                        },
+                        {
+                            "name": "Color: Starter",
+                            "registered_at": "2020-10-20 00:03:39"
+                        },
+                        {
+                            "name": "VFX: Starter",
+                            "registered_at": "2020-10-20 00:03:40"
+                        },
+                        {
+                            "name": "Edit: Repair",
+                            "registered_at": "2020-10-20 00:03:40"
+                        },
+                        {
+                            "name": "Color: LUT",
+                            "registered_at": "2020-10-20 00:03:40"
+                        },
+                        {
+                            "name": "Edit: Beautify",
+                            "registered_at": "2020-10-20 00:03:40"
+                        },
+                        {
+                            "name": "Composite: Toolkit",
+                            "registered_at": "2020-10-20 00:03:40"
+                        },
+                        {
+                            "name": "Composite: Pro Keying",
+                            "registered_at": "2020-10-20 00:03:41"
+                        },
+                        {
+                            "name": "Motion: Audio Visual",
+                            "registered_at": "2020-10-20 00:03:41"
+                        },
+                        {
+                            "name": "VFX: Neon Lights",
+                            "registered_at": "2020-10-20 00:03:41"
+                        },
+                        {
+                            "name": "VFX: Lighting",
+                            "registered_at": "2020-10-20 00:03:41"
+                        },
+                        {
+                            "name": "Audio: Toolkit",
+                            "registered_at": "2020-11-19 19:39:33"
+                        },
+                        {
+                            "name": "VFX: Damage",
+                            "registered_at": "2020-11-19 19:39:33"
+                        },
+                        {
+                            "name": "Color: Cine",
+                            "registered_at": "2020-11-19 19:39:33"
+                        },
+                        {
+                            "name": "3D: Particles",
+                            "registered_at": "2020-11-19 19:39:33"
+                        },
+                        {
+                            "name": "Behaviors: Starter",
+                            "registered_at": "2020-11-19 19:39:34"
+                        },
+                        {
+                            "name": "VFX: Retro",
+                            "registered_at": "2020-11-19 19:39:34"
+                        }
+                    ]
+                },
+                {
+                    "name": "HitFilm Express 2017",
+                    "registered_at": "2017-12-27 22:16:12",
+                    "install_url": "https:\/\/legacy.fxhome.com\/software-install\/hitfilm-express-2017",
+                    "update_extensions": [],
+                    "components": []
+                },
+                {
+                    "name": "HitFilm 4 Express",
+                    "registered_at": "2017-03-05 13:03:14",
+                    "install_url": "https:\/\/legacy.fxhome.com\/software-install\/hitfilm-4-express",
+                    "update_extensions": [],
+                    "components": []
+                }
+            ],
+            "third_party_programs": [],
+            "downloads": [
+                {
+                    "name": "CV PROMO",
+                    "registered_at": "2020-11-19 19:39:36",
+                    "files": [
+                        {
+                            "name": "CV",
+                            "bytes": 622990452,
+                            "download_url": "https:\/\/google.com"
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    "code": 200
+}
